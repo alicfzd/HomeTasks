@@ -1,0 +1,7 @@
+C:\Users\99460\Desktop\HomeTasks\SingerTask\SingerTask\bin\Debug\SingerTask.exe.config
+C:\Users\99460\Desktop\HomeTasks\SingerTask\SingerTask\bin\Debug\SingerTask.exe
+C:\Users\99460\Desktop\HomeTasks\SingerTask\SingerTask\bin\Debug\SingerTask.pdb
+C:\Users\99460\Desktop\HomeTasks\SingerTask\SingerTask\obj\Debug\SingerTask.csproj.AssemblyReference.cache
+C:\Users\99460\Desktop\HomeTasks\SingerTask\SingerTask\obj\Debug\SingerTask.csproj.CoreCompileInputs.cache
+C:\Users\99460\Desktop\HomeTasks\SingerTask\SingerTask\obj\Debug\SingerTask.exe
+C:\Users\99460\Desktop\HomeTasks\SingerTask\SingerTask\obj\Debug\SingerTask.pdb
