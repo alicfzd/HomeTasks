@@ -1,0 +1,7 @@
+C:\Users\99460\Desktop\HomeTasks\ExceptionTask\ExceptionTask\bin\Debug\ExceptionTask.exe.config
+C:\Users\99460\Desktop\HomeTasks\ExceptionTask\ExceptionTask\bin\Debug\ExceptionTask.exe
+C:\Users\99460\Desktop\HomeTasks\ExceptionTask\ExceptionTask\bin\Debug\ExceptionTask.pdb
+C:\Users\99460\Desktop\HomeTasks\ExceptionTask\ExceptionTask\obj\Debug\ExceptionTask.csproj.AssemblyReference.cache
+C:\Users\99460\Desktop\HomeTasks\ExceptionTask\ExceptionTask\obj\Debug\ExceptionTask.csproj.CoreCompileInputs.cache
+C:\Users\99460\Desktop\HomeTasks\ExceptionTask\ExceptionTask\obj\Debug\ExceptionTask.exe
+C:\Users\99460\Desktop\HomeTasks\ExceptionTask\ExceptionTask\obj\Debug\ExceptionTask.pdb
