@@ -1,0 +1,7 @@
+C:\Users\99460\Desktop\HomeTasks\AninalTask\AninalTask\obj\Debug\AnimalTask.csproj.AssemblyReference.cache
+C:\Users\99460\Desktop\HomeTasks\AninalTask\AninalTask\obj\Debug\AnimalTask.csproj.CoreCompileInputs.cache
+C:\Users\99460\Desktop\HomeTasks\AninalTask\AninalTask\bin\Debug\AninalTask.exe.config
+C:\Users\99460\Desktop\HomeTasks\AninalTask\AninalTask\bin\Debug\AninalTask.exe
+C:\Users\99460\Desktop\HomeTasks\AninalTask\AninalTask\bin\Debug\AninalTask.pdb
+C:\Users\99460\Desktop\HomeTasks\AninalTask\AninalTask\obj\Debug\AninalTask.exe
+C:\Users\99460\Desktop\HomeTasks\AninalTask\AninalTask\obj\Debug\AninalTask.pdb

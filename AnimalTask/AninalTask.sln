@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35327.3
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AnimalTask", "AninalTask\AnimalTask.csproj", "{C3C53956-8496-4DDF-90BF-2602F034CA2B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C3C53956-8496-4DDF-90BF-2602F034CA2B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C3C53956-8496-4DDF-90BF-2602F034CA2B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C3C53956-8496-4DDF-90BF-2602F034CA2B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C3C53956-8496-4DDF-90BF-2602F034CA2B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CC69B4C3-B327-4102-873D-E4D9954FB86B}
+	EndGlobalSection
+EndGlobal
