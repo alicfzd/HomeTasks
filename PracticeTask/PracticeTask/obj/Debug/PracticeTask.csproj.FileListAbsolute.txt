@@ -1,0 +1,7 @@
+C:\Users\99460\Desktop\HomeTasks\PracticeTask\PracticeTask\bin\Debug\PracticeTask.exe.config
+C:\Users\99460\Desktop\HomeTasks\PracticeTask\PracticeTask\bin\Debug\PracticeTask.exe
+C:\Users\99460\Desktop\HomeTasks\PracticeTask\PracticeTask\bin\Debug\PracticeTask.pdb
+C:\Users\99460\Desktop\HomeTasks\PracticeTask\PracticeTask\obj\Debug\PracticeTask.csproj.AssemblyReference.cache
+C:\Users\99460\Desktop\HomeTasks\PracticeTask\PracticeTask\obj\Debug\PracticeTask.csproj.CoreCompileInputs.cache
+C:\Users\99460\Desktop\HomeTasks\PracticeTask\PracticeTask\obj\Debug\PracticeTask.exe
+C:\Users\99460\Desktop\HomeTasks\PracticeTask\PracticeTask\obj\Debug\PracticeTask.pdb
